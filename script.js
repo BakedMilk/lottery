@@ -3,7 +3,7 @@
 
 function getRandomNickName() {
 
-	var accessToken = '5384152440.b3325ad.0502a0884ba34859bbad7344dc839ecc';
+	var accessToken = '***';
 	var url = $("#mediaIdURL").val();
 	var mediaIdURL = 'http://api.instagram.com/oembed/?url=' + url;
 
